@@ -1,0 +1,15 @@
+2023-12-31 14:40:50,756 [INFO] Autoeagler v2.3 logs
+2023-12-31 14:40:50,757 [INFO] starting Autoeagler...
+2023-12-31 14:40:52,467 [INFO] user chose "3) Run with NGROK"
+2023-12-31 14:40:55,068 [INFO] starting bungeecord 1.8.8 ...
+2023-12-31 14:40:55,078 [INFO] starting spigot 1.8.8 ...
+2023-12-31 14:40:55,110 [INFO] Opening tunnel named: http-8081-42f3bb96-2f9b-4f52-b081-10ab524c77d5
+2023-12-31 14:40:55,112 [INFO] Overriding default auth token
+2023-12-31 14:40:55,112 [INFO] Starting ngrok in region: us
+2023-12-31 14:40:56,109 [INFO] t=2023-12-31T14:40:56-0600 lvl=info msg="command usage" msg="Flag --region has been deprecated, ngrok automatically chooses the region with lowest latency"
+2023-12-31 14:40:56,110 [INFO] t=2023-12-31T14:40:56-0600 lvl=info msg="no configuration paths supplied"
+2023-12-31 14:40:56,110 [INFO] t=2023-12-31T14:40:56-0600 lvl=info msg="ignoring default config path, could not stat it" path=C:\\Users\\finnj\\AppData\\Local/ngrok/ngrok.yml
+2023-12-31 14:40:56,117 [INFO] t=2023-12-31T14:40:56-0600 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+2023-12-31 14:40:56,532 [INFO] t=2023-12-31T14:40:56-0600 lvl=info msg="client session established" obj=tunnels.session obj=csess id=ada587660c8a
+2023-12-31 14:40:56,533 [INFO] t=2023-12-31T14:40:56-0600 lvl=info msg="tunnel session started" obj=tunnels.session
+2023-12-31 14:40:57,044 [INFO] Server running at wss://9e81-47-13-156-9.ngrok-free.app
